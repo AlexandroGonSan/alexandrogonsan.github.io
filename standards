@@ -1,8 +1,9 @@
 # Resoluções
 Forks offline
-Forks online somente para edição, após fim da edição excluir
-Forks para fazer bifurcação de desenvolvimento, offline + private
-baixar de origin se dad nao existir, se existir mais do que os remotes origin e dad retornar erro e não continuar
+forks bare no mega e no google drive (sources/forks...)
+forks de bare em c:/dev para edição, terminar edição fazer push pro repo bare e excluir de c:/dev
+name default de branchs change to current
+forks não são usados nos github privados para uma visão mais limpa dos meus repositórios
 
 # email
 quanto tiver emails a analisar e que não será feito agora criar uma pasta e colocar próximo ao início dos favoritos no email.

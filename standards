@@ -1,7 +1,8 @@
 # Resoluções
 Forks offline
-forks bare no mega e no google drive (sources/forks...)
-forks de bare em c:/dev para edição, terminar edição fazer push pro repo bare e excluir de c:/dev
+forks bare no google drive (sources/forks...) - mega às vezes demora muito para abrir no browser quando necessário
+para editar um fork fazer clone do bare em c:/dev para edição, terminar edição fazer push pro repo bare...
+...e excluir de c:/dev
 name default de branchs change to current
 forks não são usados nos github privados para uma visão mais limpa dos meus repositórios
 
